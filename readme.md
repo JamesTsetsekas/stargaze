@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img alt="stargaze" src="./.github/lang.png">
+  <img alt="stargaze" src="./.github/lang.png"><br>
   <b>Filter by Language</b><br>
   <sub>💥 Will remember your selection of language 💥</sub>
 </p>
