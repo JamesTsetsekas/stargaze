@@ -48,4 +48,4 @@
 
 ## License
 
-MIT © [James Tsetsekas]
+MIT © James Tsetsekas
