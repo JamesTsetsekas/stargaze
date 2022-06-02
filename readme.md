@@ -39,13 +39,3 @@
 ## Installation
 
 - Use Online – https://stargaze-jamestsetsekas.vercel.app/
-
-## Contributions
-
-- Spread the word
-- Open pull requests
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/JamesTsetsekas.svg?style=social&label=Follow%20%40JamesTsetsekas)](https://twitter.com/JamesTsetsekas)
-
-## License
-
-MIT © James Tsetsekas
