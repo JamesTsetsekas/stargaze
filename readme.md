@@ -35,7 +35,3 @@
   <b>Filter by Language</b><br>
   <sub>💥 Will remember your selection of language 💥</sub>
 </p>
-
-## Installation
-
-- Use Online – https://stargaze-jamestsetsekas.vercel.app/
